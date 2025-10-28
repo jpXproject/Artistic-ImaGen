@@ -1,0 +1,5 @@
+{
+  "name": "Artistic Image Generation",
+  "description": "Sample from Imagen models to generate images",
+  "requestFramePermissions": []
+}
